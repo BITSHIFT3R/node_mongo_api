@@ -1,0 +1,24 @@
+{
+  "name": "resthub",
+  "version": "1.0.0",
+  "description": "Just Testing My project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Connecting",
+    "mongo",
+    "with",
+    "node.js"
+  ],
+  "author": "abhishek",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "firebase": "^5.5.8",
+    "firebase-admin": "^6.1.0",
+    "mongoose": "^5.3.12"
+  }
+}
